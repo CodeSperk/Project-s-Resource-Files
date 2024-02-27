@@ -1,3 +1,3 @@
 
-![Project Image](./legal-solutions.fig)
+![Project Image](./legal%20sollution.jpg)
 
