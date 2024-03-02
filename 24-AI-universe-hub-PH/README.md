@@ -9,4 +9,4 @@ Single data details: https://openapi.programming-hero.com/api/ai/tool/${id}
 Single data Example: https://openapi.programming-hero.com/api/ai/tool/01
 
 
-![Universe Hub api Project](./Universe-Hub.jpg)
+![Universe Hub api Project](./AI-Universe-Hub.jpg)
